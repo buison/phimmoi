@@ -21,11 +21,11 @@
 		color: #000;
 		font-size: 12px;
 		line-height: 1.5em;
-		background: url(../img/body_bg.gif) #6f6d72;
+		background: url(http://i.imgur.com/ohC6zm6.gif?#body_bg) #6f6d72;
 	}
 	
 	.header{
-		background: #000 url(../img/header-bg.jpg) repeat-x;
+		background: #000 url(http://i.imgur.com/wNVBbxP.jpg?#header-bg) repeat-x;
 		height: 75px;
 		width: 100%;
 		padding: 0 25px;
@@ -198,7 +198,7 @@
 		margin:0 3px;
 	}
 	.widget_user_header .button-register{
-		background: transparent url(../img/image.png) no-repeat 0 0;
+		background: transparent url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat 0 0;
 		width: 79px;
 		height: 38px;
 		display: inline-block;
