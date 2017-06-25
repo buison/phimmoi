@@ -38,7 +38,7 @@
 	}
 	
 	.header-logo .logo{
-		background: url(../img/image.png) 0px -320px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) 0px -320px;
 		width: 260px;
 		height: 55px;
 		display: block;
@@ -59,7 +59,7 @@
 		visibility: hidden;
 	}
 	nav{ 
-		background: #323031 url(../img/nav-bg.jpg) repeat-x;
+		background: #323031 url(http://i.imgur.com/tHE3uuP.jpg?#nav-bg) repeat-x;
 		margin-bottom:8px;
 	}
 	
@@ -82,7 +82,7 @@
 	}
 	
 	.h4-header-line{
-		background: url(../img/divider_line.gif) bottom repeat-x;
+		background: url(http://i.imgur.com/I5hQ458.gif?#divider_line) bottom repeat-x;
 		color: #dacb46;
 		text-shadow: 1px 1px 1px #1a1a1a;
 		display: inline-block;
@@ -94,7 +94,7 @@
 	}
 	
 	.h4-header-line-2{
-		background: url(../img/divider_line.gif) bottom repeat-x;
+		background: url(http://i.imgur.com/I5hQ458.gif?#divider_line) bottom repeat-x;
 		color: #dacb46;
 		text-shadow: 1px 1px 1px #1a1a1a;
 		display: inline-block;
@@ -134,7 +134,7 @@
 		box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.4), 1px 1px 0 rgba(255, 255, 255, 0.15);
 	}
 	.widget_search input[type=submit]{
-		background: url(../img/spotlight.png) no-repeat;
+		background: url(http://i.imgur.com/NERuqfK.png?#spotlight) no-repeat;
 		border: 0px;
 		width: 32px;
 		height: 32px;
@@ -205,30 +205,30 @@
 		float: left;	
 	}
 	.widget_user_header .button-login{
-		background: transparent url(../img/image.png) no-repeat -79px 0;
+		background: transparent url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -79px 0;
 		width: 98px;
 		height: 38px;
 		display: inline-block;
 		float: left;	
 	}
 	.button-login-with-fb{
-		background: transparent url(../img/image.png) -177px -1px;
+		background: transparent url(http://i.imgur.com/uVo9uTL.png?#image) -177px -1px;
 		width:161px;
 		height:38px;
 		display:inline-block;
 	}
 	.widget_user_header .button-register:hover{
-		background: transparent url(../img/image.png) no-repeat 0 -41px;
+		background: transparent url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat 0 -41px;
 	}
 	.widget_user_header .button-login:hover{
-		background: transparent url(../img/image.png) no-repeat -79px -41px;
+		background: transparent url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -79px -41px;
 		width: 98px;
 		height: 38px;
 		display: inline-block;
 		float: left;	
 	}
 	.button-login-with-fb:hover{
-		background: transparent url(../img/image.png) -177px -42px;
+		background: transparent url(http://i.imgur.com/uVo9uTL.png?#image) -177px -42px;
 		width:161px;
 		height:38px;
 		display:inline-block;
@@ -361,7 +361,7 @@
 /* _start Button */
 
 	.button_link {
-		background: url(../img/buttons_link_bg.png) no-repeat scroll right -34px transparent;
+		background: url(http://i.imgur.com/IdLtNi3.png?#buttons_link_bg) no-repeat scroll right -34px transparent;
 		color: #323232;
 		display: inline-block;
 		margin: 5px 0;
@@ -377,7 +377,7 @@
 		opacity: 0.5;
 	}
 	.button_link span {
-		background: url(../img/buttons_link_bg.png) no-repeat scroll left 0 transparent;
+		background: url(http://i.imgur.com/IdLtNi3.png?#buttons_link_bg) no-repeat scroll left 0 transparent;
 		display: block;
 		line-height: 30px;
 		padding: 2px 0px 2px 10px;
@@ -446,7 +446,7 @@
 	.group-list-item .group-list-item-header{
 		padding: 13px 0 0 0;
 		margin-bottom: 10px;
-		background: url(../img/divider_line.gif) bottom repeat-x;
+		background: url(http://i.imgur.com/I5hQ458.gif?#divider_line) bottom repeat-x;
 	}
 	
 	.group-list-item .group-list-item-header .group-list-name{
@@ -484,7 +484,7 @@
 		margin: 0 33px 30px 0px;
 		position: relative;
 		padding: 5px;
-		background: url(../img/item_bg.gif);
+		background: url(http://i.imgur.com/eltCZs9.gif?#item_bg);
 		border-bottom: 1px solid #868489;
 		-webkit-border-radius: 4px;
 		-moz-border-radius: 4px;
@@ -516,7 +516,7 @@
 	}
 	
 	.group-list-item .list-item .item-hd-quality{
-		background: url(../img/image.png) 0px -383px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) 0px -383px;
 		width: 90px;
 		height: 30px;
 		position: absolute;
@@ -566,7 +566,7 @@
 		height: 260px;
 		width: 210px ;
 		cursor: pointer;
-		background: url(../img/play.png) no-repeat center;
+		background: url(http://i.imgur.com/ulkWpmN.png?#play) no-repeat center;
 		background-color:rgba(0,0,0,0.5);
 		position: absolute;
 		display: none;
@@ -576,7 +576,7 @@
 		height: 125px;
 		width: 210px ;
 		cursor: pointer;
-		 background: url(../img/play.png) no-repeat center;
+		 background: url(http://i.imgur.com/ulkWpmN.png?#play) no-repeat center;
 		background-color:rgba(0,0,0,0.5);
 		position: absolute;
 		display: none;
@@ -605,15 +605,15 @@
 	}
 	
 	.right-box .star-icon{
-		background: url(../img/image.png) no-repeat 0px -83px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat 0px -83px;
 	}
 	
 	.right-box .tag-icon{
-		background: url(../img/image.png) no-repeat 0px -112px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat 0px -112px;
 	}
 	
 	.right-box .cel-icon{
-		background: url(../img/image.png) no-repeat 0px -177px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat 0px -177px;
 	}
 	
 	.right-box .right-box-header span{
@@ -666,7 +666,7 @@
 		overflow: hidden;
 		position: relative;
 		padding: 5px;
-		background: #4F4E52 url(../img/item_bg.gif) repeat;
+		background: #4F4E52 url(http://i.imgur.com/eltCZs9.gif?#item_bg) repeat;
 		border-bottom: 1px solid #868489;
 		-webkit-border-radius: 4px;
 		-moz-border-radius: 4px;
@@ -770,7 +770,7 @@
 
 	::-webkit-scrollbar-thumb:vertical {
 		-webkit-border-radius: 6px;
-		background: #666 url(../img/scrollbar_thumb_bg.png) no-repeat center;
+		background: #666 url(http://i.imgur.com/wxkZwqk.png?#scrollbar_thumb_bg) no-repeat center;
 	}
  */
 	
@@ -782,7 +782,7 @@
 		list-style: none;
 	}
 	.tag-box .tag-item {
-		background-image: url(../img/image.png);
+		background-image: url(http://i.imgur.com/uVo9uTL.png?#image);
 		background-position: 0px -147px;
 		background-repeat: no-repeat;
 		float: left;
@@ -793,7 +793,7 @@
 	.tag-box .tag-item .tag-link{
 		line-height: 27px;
 		font-size: 11px;
-		background-image: url(../img/tag-middle.png);
+		background-image: url(http://i.imgur.com/YrsAgPR.png?#tag-middle);
 		display: block;
 		width: auto;
 		float: left;
@@ -806,7 +806,7 @@
 		color: #dacb46;
 	}
 	.tag-box .tag-item .tag-end{
-		background-image: url(../img/image.png);
+		background-image: url(http://i.imgur.com/uVo9uTL.png?#image);
 		background-position: -14px -147px;
 		background-repeat: no-repeat;
 		line-height: 27px;
@@ -832,7 +832,7 @@
 		cursor: pointer;
 		width: 18px;
 		height: 18px;
-		background: url(../img/star-icon.png) no-repeat 0 0;
+		background: url(http://i.imgur.com/0hsPCiy.png?#star-icon) no-repeat 0 0;
 	}
 
 	.movie-rating li.rated {
@@ -865,14 +865,14 @@
 		display: inline-block;
 		font: 30px/40px 'UTMCafetaRegular';
 		text-transform: uppercase;
-		background: url(../img/divider_line.gif) bottom repeat-x;
+		background: url(http://i.imgur.com/I5hQ458.gif?#divider_line) bottom repeat-x;
 		width: 100%;
 		margin-bottom:10px;
 	}
 	
 	.block-news .block-news-content{
 		padding: 5px;
-		background: #4F4E52 url(../img/item_bg.gif) repeat;
+		background: #4F4E52 url(http://i.imgur.com/eltCZs9.gif?#item_bg) repeat;
 		border-bottom: 1px solid #868489;
 		-webkit-border-radius: 4px;
 		-moz-border-radius: 4px;
@@ -922,7 +922,7 @@
 		margin:5px 0px;
 		font-size: 12px;
 		color: #fff;
-		background: url(../img/image.png) 0px -210px no-repeat;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) 0px -210px no-repeat;
 		padding-left: 12px;
 	}
 	
@@ -936,7 +936,7 @@
 /* _start Footer */
 
 	.footer{
-		background: url(../img/micro_carbon.png);
+		background: url(http://i.imgur.com/qFEnkBO.png?#micro_carbon);
 		min-height: 100px;
 		padding: 20px 25px 15px;
 		border-top: 3px solid #dacb46;
@@ -945,7 +945,7 @@
 	}
 	
 	.footer .footer-logo-film{
-		background: url(../img/image.png) 0px -446px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) 0px -446px;
 		height: 55px;
 		float: left;
 		min-width: 250px;
@@ -1188,7 +1188,7 @@
 		overflow: hidden;
 		position: relative;
 		padding: 10px;
-		background: #4F4E52 url(../img/item_bg.gif) repeat;
+		background: #4F4E52 url(http://i.imgur.com/eltCZs9.gif?#item_bg) repeat;
 		border-bottom: 1px solid #868489;
 		-webkit-border-radius: 4px;
 		-moz-border-radius: 4px;
@@ -1231,7 +1231,7 @@
 	}
 	
 	.box-stack-movie .stack-block{
-		background: transparent url(../img/stack.png) bottom no-repeat;
+		background: transparent url(http://i.imgur.com/Wv9tZwv.png?#stack) bottom no-repeat;
 		height: 125px;
 		width: 100%;
 		margin-bottom: 15px;
@@ -1350,7 +1350,7 @@
 	.block-wrapper{
 		position: relative;
 		padding: 2px;
-		background: #4F4E52 url(../img/item_bg.gif) repeat;
+		background: #4F4E52 url(http://i.imgur.com/eltCZs9.gif?#item_bg) repeat;
 		border-bottom: 1px solid #868489;
 		color: #ddd;
 		height: auto;
@@ -1370,7 +1370,7 @@
 /* _start Facebook Top */
 
 	.facebook-top{
-		background: #fff url(../img/header_middle_bg.png);
+		background: #fff url(http://i.imgur.com/GkrjpwS.png?#header_middle_bg);
 		width: 100%;
 		height: 122px;
 		padding: 0px;
@@ -1460,7 +1460,7 @@
 		color: #dacb46;
 	}
 	.header-list-index {
-		background: url(../img/divider_line.gif) bottom repeat-x;
+		background: url(http://i.imgur.com/I5hQ458.gif?#divider_line) bottom repeat-x;
 		margin-bottom: 5px;
 		margin-top: 10px;
 	}
@@ -1478,7 +1478,7 @@
 		color: #ddd;
 		font-size: 14px;
 		text-decoration: none;
-		background: url(../img/viewmore.png) no-repeat right 21px;
+		background: url(http://i.imgur.com/sWgvMTo.png?#viewmore) no-repeat right 21px;
 	}
 	.header-list-index .more-list-index:hover{
 		color: #dacb46;
@@ -1750,7 +1750,7 @@
 		display: block;
 		width: 46px;
 		height: 46px;
-		background: transparent url(../img/play.png);
+		background: transparent url(http://i.imgur.com/ulkWpmN.png?#play);
 	}
 	.block-news .news-item{
 		margin-bottom: 10px;
@@ -1804,7 +1804,7 @@
 	}
 	.btn-cs > .btn-cs-icon
 	{
-		background-image: url(../img/image.png) !important;
+		background-image: url(http://i.imgur.com/uVo9uTL.png?#image) !important;
 		width: 16px;
 		height: 16px;
 		margin-right: 0;
@@ -1843,7 +1843,7 @@
 		margin-bottom: 10px;
 	}
 	.list-server .server .server-name{
-		background: url(../img/_server.png) no-repeat;
+		background: url(http://i.imgur.com/dzacjY3.png?#_server) no-repeat;
 		height: 16px;
 		padding-left: 22px;
 		padding-top: 2px;
@@ -1867,7 +1867,7 @@
 	}
 	/*--Episode choise for single film--*/
 	.list-server .server .server-name {
-		background: url(../img/_server.png) no-repeat;
+		background: url(http://i.imgur.com/dzacjY3.png?#_server) no-repeat;
 		height: 16px;
 		padding-left: 22px;
 		padding-top: 2px;
@@ -2122,7 +2122,7 @@
 		width: 360px;
 	}
 	#tabs-movie{
-		background: #4F4E52 url(../img/item_bg.gif) repeat;
+		background: #4F4E52 url(http://i.imgur.com/eltCZs9.gif?#item_bg) repeat;
 		color: #b9b9b9;
 		border-bottom: 1px solid #868489;
 		max-height:600px;
@@ -2146,7 +2146,7 @@
 		color: #ddd;
 	}
 	#tabs-movie .tabs-movie-block .ui-tabs-active{
-		background: #4F4E52 url(../img/item_bg.gif) repeat;
+		background: #4F4E52 url(http://i.imgur.com/eltCZs9.gif?#item_bg) repeat;
 	}
 	#tabs-movie .tabs-movie-block .ui-tabs-active>a{
 		color: #46E1FF !important;
@@ -2263,13 +2263,13 @@
 		cursor: pointer;
 	}
 	.list_carousel .prev .arrow-icon.left{
-		background: url(../img/image.png) no-repeat -2px -535px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -2px -535px;
 		height: 24px;
 		width: 16px;
 		display: block;
 	}
 	.list_carousel .next .arrow-icon.right{
-		background: url(../img/image.png) no-repeat -23px -535px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -23px -535px;
 		height: 24px;
 		width: 16px;
 		display: block;
@@ -2385,7 +2385,7 @@
 		background: rgba(0,0,0,0.6);
 	}
 	.block-actors .prev .arrow-icon.left{
-		background: url(../img/image.png) no-repeat -2px -535px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -2px -535px;
 		height: 24px;
 		width: 16px;
 		display: block;
@@ -2394,7 +2394,7 @@
 		right: 11px;
 	}
 	.block-actors .next .arrow-icon.right{
-		background: url(../img/image.png) no-repeat -23px -535px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -23px -535px;
 		height: 24px;
 		width: 16px;
 		display: block;
@@ -2510,7 +2510,7 @@
 		text-align: center;
 		height: 82px;
 		width: 315px;
-		background: url(../img/23623345.jpg);
+		background: url(http://i.imgur.com/TPwzNTO.jpg?#23623345);
 		color: #fff;
 		font-size: 16px;
 		text-decoration: none;
@@ -2523,7 +2523,7 @@
 	}
 	.btn-show-all-movie:hover{
 		color: #fff;
-		background: url(../img/23623345_hover.jpg);
+		background: url(http://i.imgur.com/qr3sRGl.jpg?#23623345_hover);
 
 	}
 	#autonext-overlay{
@@ -2592,7 +2592,7 @@
 		display: block;
 	}
 	.rate-vote{
-		background: url(../img/image.png) no-repeat;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat;
 		height: 20px;
 		width: 90px;
 		display: block;
@@ -2699,7 +2699,7 @@
 	}
 	.content-verified
 	{
-		background-image: url('../img/image.png');
+		background-image: url('http://i.imgur.com/uVo9uTL.png?#image');
 		background-repeat: no-repeat;
 		background-position: center center;
 		width: 25px;
@@ -2775,13 +2775,13 @@
 		right: 0px;
 	}
 	.slider-movie .slider-directionNav .prevNav .prev-icon{
-		background: url(../img/image.png) no-repeat -2px -535px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -2px -535px;
 		height: 24px;
 		width: 16px;
 		display: block;
 	}
 	.slider-movie .slider-directionNav .nextNav .next-icon{
-		background: url(../img/image.png) no-repeat -23px -535px;
+		background: url(http://i.imgur.com/uVo9uTL.png?#image) no-repeat -23px -535px;
 		height: 24px;
 		width: 16px;
 		display: block;
@@ -2965,7 +2965,7 @@
 	}
 	.subscribe-block .btn-subscribe, .message-block .btn-subscribed, .message-block .btn-unsubscribe{
 		padding: 4px 8px 4px 30px !important;
-		background: #d9534f url(../img/image.png);
+		background: #d9534f url(http://i.imgur.com/uVo9uTL.png?#image);
 		margin: 2px 0px;
 	}
 	.subscribe-block .btn-subscribe,
