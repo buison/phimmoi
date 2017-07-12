@@ -1,7 +1,7 @@
 function dpg(a){if(-1!=a.indexOf("|")){var b=a.split("|")[1].split("(")[0];return""!=b?b.replace(/\)/gi,""):"Đang cập nhật"}return"Đang cập nhật"};
 function dcp(a){return a.replace(/(\[.*?\])/gi,'').split("|")[0].replace(/(\(.*?\))/gi,'');}; // Tên chính + phụ 
 function dc(a){return-1!=a.indexOf(a)?a.split("-")[0].replace(/(\[.*?\])/gi,"").replace(/(\(.*?\))/gi,''):a};  //Tên Chính
-function dp(a){if(-1!=a.indexOf("-")){var b=a.split("-")[1].split("(")[0];return""!=b?b.replace(/\)/gi,""):"Đang cập nhật"}return"Đang cập nhật"};
+function dp(a){if(-1!=a.indexOf("-")){var b=a.split("-")[1].split("(")[0];return""!=b?b.replace(/\)/gi,"").replace(/(\[.*?\])/gi,''):"Đang cập nhật"}return"Đang cập nhật"};
 function dtt(a){if(-1!=a.indexOf("[")){var b=a.split("[")[1].replace("","").split("+")[0].split("]")[0];return""!=b?b.replace(/\)/gi,""):"Bản Đẹp"}return"Bản Đẹp"};
 
 function dt(a){if(a.indexOf('[')!=-1){var b=a.split('[')[1].split('/')[0];if(b!='')return b.replace(/\]/gi,'');else return 'Bản Đẹp';}else{return 'Bản Đẹp';};};
